@@ -1,0 +1,8 @@
+   {
+     "rewrites": [
+       {
+         "source": "/(.*)",
+         "destination": "https://dragonballbt3.online$1"
+       }
+     ]
+   }
